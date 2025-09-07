@@ -1,0 +1,4 @@
+# Ignore PKL files
+*.pkl
+results/*.pkl
+Final_summit/q_table.pkl

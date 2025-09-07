@@ -1,0 +1,59 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Q-Learning for Cutting Stock - Visualization Report</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1 { color: #2c3e50; }
+                h2 { color: #3498db; }
+                .image-container { margin-bottom: 30px; }
+                img { max-width: 100%; border: 1px solid #ddd; border-radius: 5px; }
+                .description { margin-top: 10px; color: #555; }
+            </style>
+        </head>
+        <body>
+            <h1>Q-Learning for Cutting Stock Problem - Visualization Report</h1>
+            
+            <div class="image-container">
+                <h2>Training Metrics</h2>
+                <img src="training_metrics.png" alt="Training Metrics">
+                <div class="description">
+                    This graph shows the rewards, epsilon decay, and steps per episode during training.
+                </div>
+            </div>
+            
+            <div class="image-container">
+                <h2>Q-table Heatmap</h2>
+                <img src="q_table_heatmap.png" alt="Q-table Heatmap">
+                <div class="description">
+                    This heatmap visualizes a sample of the Q-table, showing the learned state-action values.
+                </div>
+            </div>
+            
+            <div class="image-container">
+                <h2>Q-value Distribution</h2>
+                <img src="q_value_distribution.png" alt="Q-value Distribution">
+                <div class="description">
+                    This histogram shows the distribution of non-zero Q-values in the Q-table.
+                </div>
+            </div>
+            
+            <div class="image-container">
+                <h2>State Values</h2>
+                <img src="state_values.png" alt="State Values">
+                <div class="description">
+                    This bar chart shows the maximum Q-value for each state.
+                </div>
+            </div>
+            
+            <div class="image-container">
+                <h2>Cutting Stock Results</h2>
+                <img src="cutting_stock_results.png" alt="Cutting Stock Results">
+                <div class="description">
+                    This graph shows the material usage and waste percentages for each stock.
+                </div>
+            </div>
+        </body>
+        </html>
+        

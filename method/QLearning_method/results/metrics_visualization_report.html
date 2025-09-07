@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Cutting Stock Q-Learning Metrics Visualization</title>
+        <style>
+            body {
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                margin: 20px;
+                background-color: #f5f5f5;
+                color: #333;
+            }
+            h1 {
+                color: #2c3e50;
+                text-align: center;
+                padding-bottom: 10px;
+                border-bottom: 2px solid #3498db;
+            }
+            h2 {
+                color: #3498db;
+                margin-top: 30px;
+            }
+            .image-container {
+                background-color: white;
+                border-radius: 8px;
+                box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+                padding: 20px;
+                margin-bottom: 30px;
+                text-align: center;
+            }
+            img {
+                max-width: 100%;
+                border-radius: 5px;
+                margin-bottom: 10px;
+            }
+            .description {
+                text-align: left;
+                padding: 0 10px;
+                margin-top: 10px;
+                color: #555;
+                line-height: 1.6;
+            }
+            footer {
+                text-align: center;
+                margin-top: 30px;
+                padding-top: 20px;
+                border-top: 1px solid #ddd;
+                color: #7f8c8d;
+                font-size: 14px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Cutting Stock Q-Learning Metrics Visualization</h1>
+    
+        <h2>Metrics Dashboard</h2>
+        <div class="image-container">
+            <img src="plots/metrics_dashboard.png" alt="Metrics Dashboard">
+            <div class="description">
+                <p>This dashboard provides a comprehensive overview of all key metrics during training, including rewards, steps, trim loss, material usage, stocks used, and remaining products.</p>
+            </div>
+        </div>
+        
+        <h2>Reward Analysis</h2>
+        
+            <div class="image-container">
+                <img src="plots/rewards_vs_episodes.png" alt="rewards_vs_episodes.png">
+                <div class="description">
+                    <p>This plot shows the rewards obtained during training, with trends and moving averages to highlight the agent's learning progress.</p>
+                </div>
+            </div>
+            
+            <div class="image-container">
+                <img src="plots/rewards_vs_steps.png" alt="rewards_vs_steps.png">
+                <div class="description">
+                    <p>This plot examines the relationship between rewards and other metrics like steps.</p>
+                </div>
+            </div>
+            
+        <h2>Steps Analysis</h2>
+        
+            <div class="image-container">
+                <img src="plots/steps_vs_episodes.png" alt="steps_vs_episodes.png">
+                <div class="description">
+                    <p>This plot shows the number of steps taken in each episode, which indicates how long the agent explored before completing or terminating an episode.</p>
+                </div>
+            </div>
+            
+        <h2>Trim Loss Analysis</h2>
+        
+            <div class="image-container">
+                <img src="plots/trimloss_vs_episodes.png" alt="trimloss_vs_episodes.png">
+                <div class="description">
+                    <p>This plot shows how trim loss (waste material) changed over episodes as the agent learned better cutting patterns.</p>
+                </div>
+            </div>
+            
+            <div class="image-container">
+                <img src="plots/trimloss_vs_material_usage.png" alt="trimloss_vs_material_usage.png">
+                <div class="description">
+                    <p>This plot examines the relationship between trim loss and material usage.</p>
+                </div>
+            </div>
+            
+        <h2>Material Usage Analysis</h2>
+        
+            <div class="image-container">
+                <img src="plots/material_usage_vs_episodes.png" alt="material_usage_vs_episodes.png">
+                <div class="description">
+                    <p>This plot shows the material usage percentage over episodes, indicating how efficiently the agent utilized the available material.</p>
+                </div>
+            </div>
+            
+        <h2>Stocks Usage Analysis</h2>
+        
+            <div class="image-container">
+                <img src="plots/stocks_used_vs_episodes.png" alt="stocks_used_vs_episodes.png">
+                <div class="description">
+                    <p>This plot shows how many stock sheets the agent used across episodes, with fewer stocks indicating more efficient packing.</p>
+                </div>
+            </div>
+            
+        <h2>Remaining Products Analysis</h2>
+        
+            <div class="image-container">
+                <img src="plots/remaining_products_vs_episodes.png" alt="remaining_products_vs_episodes.png">
+                <div class="description">
+                    <p>This plot shows how many products remained uncut at the end of each episode, with fewer remaining products indicating better performance.</p>
+                </div>
+            </div>
+            
+            <div class="image-container">
+                <img src="plots/stocks_vs_remaining.png" alt="stocks_vs_remaining.png">
+                <div class="description">
+                    <p>This plot shows how many products remained uncut at the end of each episode, with fewer remaining products indicating better performance.</p>
+                </div>
+            </div>
+            
+        <h2>Metric Relationships</h2>
+        
+            <div class="image-container">
+                <img src="plots/metrics_correlation.png" alt="metrics_correlation.png">
+                <div class="description">
+                    <p>This plot explores the relationship between different metrics, revealing how they influence each other during training.</p>
+                </div>
+            </div>
+            
+        <h2>Q-Table Analysis</h2>
+        
+            <div class="image-container">
+                <img src="plots/q_table_sparsity.png" alt="q_table_sparsity.png">
+                <div class="description">
+                    <p>This plot shows the sparsity of the Q-table, indicating how much of the state-action space was explored.</p>
+                </div>
+            </div>
+            
+            <div class="image-container">
+                <img src="plots/q_value_distribution.png" alt="q_value_distribution.png">
+                <div class="description">
+                    <p>This plot shows the distribution of Q-values in the trained Q-table, indicating what value ranges the agent learned.</p>
+                </div>
+            </div>
+            
+        <footer>
+            Generated on 2025-03-22 20:36:42 | Cutting Stock Q-Learning Visualization
+        </footer>
+    </body>
+    </html>
+    

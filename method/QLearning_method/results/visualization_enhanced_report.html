@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Enhanced Cutting Stock Q-Learning Visualization</title>
+        <style>
+            body {
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                margin: 20px;
+                background-color: #f5f5f5;
+                color: #333;
+            }
+            h1 {
+                color: #2c3e50;
+                text-align: center;
+                padding-bottom: 10px;
+                border-bottom: 2px solid #3498db;
+            }
+            h2 {
+                color: #3498db;
+                margin-top: 30px;
+            }
+            .dashboard-container {
+                background-color: white;
+                border-radius: 8px;
+                box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+                padding: 20px;
+                margin-bottom: 30px;
+            }
+            .image-container {
+                text-align: center;
+                margin-bottom: 30px;
+            }
+            img {
+                max-width: 100%;
+                border-radius: 5px;
+                box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            }
+            .description {
+                margin-top: 15px;
+                line-height: 1.6;
+                color: #555;
+                text-align: left;
+                padding: 0 10px;
+            }
+            .highlight {
+                background-color: #f8f9fa;
+                border-left: 3px solid #3498db;
+                padding: 10px 15px;
+                margin: 10px 0;
+            }
+            .metric-container {
+                display: flex;
+                justify-content: space-around;
+                flex-wrap: wrap;
+                margin: 20px 0;
+            }
+            .metric {
+                background-color: #fff;
+                border-radius: 5px;
+                box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+                padding: 15px;
+                width: 180px;
+                text-align: center;
+                margin: 10px;
+            }
+            .metric-value {
+                font-size: 24px;
+                font-weight: bold;
+                color: #3498db;
+            }
+            .metric-label {
+                font-size: 14px;
+                color: #7f8c8d;
+                margin-top: 5px;
+            }
+            footer {
+                text-align: center;
+                margin-top: 30px;
+                padding-top: 20px;
+                border-top: 1px solid #ddd;
+                color: #7f8c8d;
+                font-size: 14px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Enhanced Cutting Stock Q-Learning Visualization</h1>
+        
+        <div class="dashboard-container">
+            <h2>Training Metrics Dashboard</h2>
+            <div class="image-container">
+                <img src="visualizations/training_metrics_dashboard.png" alt="Training Metrics Dashboard">
+                <div class="description">
+                    <p>This comprehensive dashboard shows key metrics from the Q-Learning training process:</p>
+                    <ul>
+                        <li><strong>Rewards over Episodes:</strong> Shows how the agent's performance improved over time</li>
+                        <li><strong>Exploration and Learning Rates:</strong> Visualizes how epsilon and alpha decayed during training</li>
+                        <li><strong>Steps per Episode:</strong> Shows how many actions the agent took in each episode</li>
+                        <li><strong>Maximum Q-value:</strong> Indicates how the agent's value estimates evolved</li>
+                        <li><strong>Reward Distribution:</strong> Shows the distribution of rewards across all episodes</li>
+                        <li><strong>Training Stability:</strong> Measures how consistent the agent's performance became</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="dashboard-container">
+            <h2>Cutting Stock Performance Metrics</h2>
+            <div class="image-container">
+                <img src="visualizations/cutting_metrics_dashboard.png" alt="Cutting Metrics Dashboard">
+                <div class="description">
+                    <p>This dashboard focuses specifically on the cutting stock problem performance:</p>
+                    <ul>
+                        <li><strong>Trim Loss:</strong> Shows how material waste decreased during training</li>
+                        <li><strong>Material Usage:</strong> Visualizes how effectively the agent utilized available material</li>
+                        <li><strong>Stocks Used:</strong> Shows how efficiently the agent used available stocks</li>
+                        <li><strong>Remaining Products:</strong> Indicates how many products were successfully placed</li>
+                        <li><strong>Cutting Efficiency Score:</strong> A combined metric considering all aspects of performance</li>
+                    </ul>
+                    <p class="highlight">The trend lines show the overall direction of improvement. Negative slopes for trim loss and remaining products indicate improvement, while positive slopes for material usage indicate better performance.</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="dashboard-container">
+            <h2>Final Cutting Stock Results</h2>
+            <div class="image-container">
+                <img src="visualizations/final_cutting_results.png" alt="Final Cutting Results">
+                <div class="description">
+                    <p>This visualization shows the final cutting stock solution obtained after training:</p>
+                    <ul>
+                        <li><strong>Material Usage and Waste:</strong> Breakdown by individual stock</li>
+                        <li><strong>Performance Summary:</strong> Key statistics about the overall solution quality</li>
+                    </ul>
+                    <p class="highlight">Lower waste percentages and higher usage percentages indicate a more efficient cutting pattern.</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="dashboard-container">
+            <h2>Q-Table Insights</h2>
+            <div class="image-container">
+                <img src="visualizations/q_table_insights.png" alt="Q-Table Insights">
+                <div class="description">
+                    <p>This visualization provides insights into the Q-table structure after training:</p>
+                    <ul>
+                        <li><strong>Q-value Distribution:</strong> Shows the range and frequency of learned values</li>
+                        <li><strong>Top States Heatmap:</strong> Visualizes the highest-value state-action pairs</li>
+                        <li><strong>States with Most Actions:</strong> Identifies states where the agent learned multiple viable actions</li>
+                        <li><strong>Growth Potential:</strong> Highlights states with significant differences between best and average actions</li>
+                        <li><strong>Q-table Sparsity:</strong> Shows how much of the state-action space was explored</li>
+                    </ul>
+                    <p class="highlight">A well-trained Q-table should have a range of positive values, with clear preferences for certain actions in important states.</p>
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            Generated on 2025-03-22 15:40:22 | Cutting Stock Q-Learning Visualization
+        </footer>
+    </body>
+    </html>
+    

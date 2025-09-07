@@ -1,0 +1,700 @@
+Episode 0 starting
+Trim loss: 31.45%
+Material usage: 48.60%
+Stocks used: 10
+Remaining products: 19
+Episode 0 complete
+
+Episode 1 starting
+Trim loss: 26.49%
+Material usage: 49.89%
+Stocks used: 11
+Remaining products: 20
+Episode 1 complete
+
+Episode 2 starting
+Trim loss: 23.17%
+Material usage: 50.67%
+Stocks used: 11
+Remaining products: 22
+Episode 2 complete
+
+Episode 3 starting
+Trim loss: 28.15%
+Material usage: 48.44%
+Stocks used: 10
+Remaining products: 20
+Episode 3 complete
+
+Episode 4 starting
+Trim loss: 32.54%
+Material usage: 53.47%
+Stocks used: 8
+Remaining products: 19
+Episode 4 complete
+
+Episode 5 starting
+Trim loss: 29.42%
+Material usage: 54.39%
+Stocks used: 10
+Remaining products: 20
+Episode 5 complete
+
+Episode 6 starting
+Trim loss: 30.00%
+Material usage: 51.79%
+Stocks used: 9
+Remaining products: 17
+Episode 6 complete
+
+Episode 7 starting
+Trim loss: 27.81%
+Material usage: 57.47%
+Stocks used: 10
+Remaining products: 16
+Episode 7 complete
+
+Episode 8 starting
+Trim loss: 30.12%
+Material usage: 53.21%
+Stocks used: 11
+Remaining products: 20
+Episode 8 complete
+
+Episode 9 starting
+Trim loss: 31.86%
+Material usage: 56.56%
+Stocks used: 7
+Remaining products: 20
+Episode 9 complete
+
+Episode 10 starting
+Trim loss: 30.70%
+Material usage: 55.64%
+Stocks used: 11
+Remaining products: 18
+Episode 10 complete
+
+Episode 11 starting
+Trim loss: 24.86%
+Material usage: 53.44%
+Stocks used: 10
+Remaining products: 18
+Episode 11 complete
+
+Episode 12 starting
+Trim loss: 31.10%
+Material usage: 55.43%
+Stocks used: 8
+Remaining products: 17
+Episode 12 complete
+
+Episode 13 starting
+Trim loss: 28.07%
+Material usage: 54.93%
+Stocks used: 11
+Remaining products: 16
+Episode 13 complete
+
+Episode 14 starting
+Trim loss: 25.45%
+Material usage: 58.99%
+Stocks used: 8
+Remaining products: 18
+Episode 14 complete
+
+Episode 15 starting
+Trim loss: 28.02%
+Material usage: 52.26%
+Stocks used: 10
+Remaining products: 18
+Episode 15 complete
+
+Episode 16 starting
+Trim loss: 26.72%
+Material usage: 59.67%
+Stocks used: 10
+Remaining products: 21
+Episode 16 complete
+
+Episode 17 starting
+Trim loss: 23.57%
+Material usage: 56.77%
+Stocks used: 10
+Remaining products: 13
+Episode 17 complete
+
+Episode 18 starting
+Trim loss: 29.19%
+Material usage: 58.21%
+Stocks used: 8
+Remaining products: 17
+Episode 18 complete
+
+Episode 19 starting
+Trim loss: 26.93%
+Material usage: 58.81%
+Stocks used: 9
+Remaining products: 19
+Episode 19 complete
+
+Episode 20 starting
+Trim loss: 29.04%
+Material usage: 58.80%
+Stocks used: 8
+Remaining products: 18
+Episode 20 complete
+
+Episode 21 starting
+Trim loss: 23.85%
+Material usage: 58.54%
+Stocks used: 9
+Remaining products: 14
+Episode 21 complete
+
+Episode 22 starting
+Trim loss: 28.61%
+Material usage: 61.39%
+Stocks used: 8
+Remaining products: 12
+Episode 22 complete
+
+Episode 23 starting
+Trim loss: 27.47%
+Material usage: 60.01%
+Stocks used: 8
+Remaining products: 12
+Episode 23 complete
+
+Episode 24 starting
+Trim loss: 26.98%
+Material usage: 57.48%
+Stocks used: 7
+Remaining products: 16
+Episode 24 complete
+
+Episode 25 starting
+Trim loss: 29.26%
+Material usage: 57.43%
+Stocks used: 10
+Remaining products: 19
+Episode 25 complete
+
+Episode 26 starting
+Trim loss: 23.44%
+Material usage: 60.07%
+Stocks used: 9
+Remaining products: 14
+Episode 26 complete
+
+Episode 27 starting
+Trim loss: 19.63%
+Material usage: 63.47%
+Stocks used: 8
+Remaining products: 17
+Episode 27 complete
+
+Episode 28 starting
+Trim loss: 29.81%
+Material usage: 59.61%
+Stocks used: 6
+Remaining products: 15
+Episode 28 complete
+
+Episode 29 starting
+Trim loss: 22.49%
+Material usage: 59.69%
+Stocks used: 9
+Remaining products: 10
+Episode 29 complete
+
+Episode 30 starting
+Trim loss: 27.96%
+Material usage: 61.56%
+Stocks used: 8
+Remaining products: 15
+Episode 30 complete
+
+Episode 31 starting
+Trim loss: 22.46%
+Material usage: 65.85%
+Stocks used: 7
+Remaining products: 14
+Episode 31 complete
+
+Episode 32 starting
+Trim loss: 20.79%
+Material usage: 60.77%
+Stocks used: 10
+Remaining products: 11
+Episode 32 complete
+
+Episode 33 starting
+Trim loss: 22.62%
+Material usage: 61.68%
+Stocks used: 8
+Remaining products: 12
+Episode 33 complete
+
+Episode 34 starting
+Trim loss: 20.12%
+Material usage: 64.74%
+Stocks used: 9
+Remaining products: 15
+Episode 34 complete
+
+Episode 35 starting
+Trim loss: 22.93%
+Material usage: 60.04%
+Stocks used: 11
+Remaining products: 14
+Episode 35 complete
+
+Episode 36 starting
+Trim loss: 24.61%
+Material usage: 67.22%
+Stocks used: 7
+Remaining products: 11
+Episode 36 complete
+
+Episode 37 starting
+Trim loss: 21.23%
+Material usage: 64.06%
+Stocks used: 6
+Remaining products: 10
+Episode 37 complete
+
+Episode 38 starting
+Trim loss: 22.42%
+Material usage: 64.60%
+Stocks used: 6
+Remaining products: 13
+Episode 38 complete
+
+Episode 39 starting
+Trim loss: 22.27%
+Material usage: 64.68%
+Stocks used: 7
+Remaining products: 14
+Episode 39 complete
+
+Episode 40 starting
+Trim loss: 25.44%
+Material usage: 67.21%
+Stocks used: 6
+Remaining products: 15
+Episode 40 complete
+
+Episode 41 starting
+Trim loss: 20.92%
+Material usage: 65.87%
+Stocks used: 9
+Remaining products: 15
+Episode 41 complete
+
+Episode 42 starting
+Trim loss: 18.86%
+Material usage: 66.51%
+Stocks used: 9
+Remaining products: 9
+Episode 42 complete
+
+Episode 43 starting
+Trim loss: 26.69%
+Material usage: 65.59%
+Stocks used: 6
+Remaining products: 12
+Episode 43 complete
+
+Episode 44 starting
+Trim loss: 17.23%
+Material usage: 69.24%
+Stocks used: 8
+Remaining products: 12
+Episode 44 complete
+
+Episode 45 starting
+Trim loss: 17.82%
+Material usage: 65.53%
+Stocks used: 7
+Remaining products: 14
+Episode 45 complete
+
+Episode 46 starting
+Trim loss: 27.64%
+Material usage: 64.79%
+Stocks used: 6
+Remaining products: 14
+Episode 46 complete
+
+Episode 47 starting
+Trim loss: 17.08%
+Material usage: 68.26%
+Stocks used: 7
+Remaining products: 17
+Episode 47 complete
+
+Episode 48 starting
+Trim loss: 18.51%
+Material usage: 70.61%
+Stocks used: 6
+Remaining products: 14
+Episode 48 complete
+
+Episode 49 starting
+Trim loss: 19.10%
+Material usage: 68.09%
+Stocks used: 6
+Remaining products: 10
+Episode 49 complete
+
+Episode 50 starting
+Trim loss: 18.10%
+Material usage: 72.23%
+Stocks used: 7
+Remaining products: 10
+Episode 50 complete
+
+Episode 51 starting
+Trim loss: 19.72%
+Material usage: 70.39%
+Stocks used: 6
+Remaining products: 10
+Episode 51 complete
+
+Episode 52 starting
+Trim loss: 21.17%
+Material usage: 72.51%
+Stocks used: 8
+Remaining products: 11
+Episode 52 complete
+
+Episode 53 starting
+Trim loss: 21.65%
+Material usage: 70.61%
+Stocks used: 6
+Remaining products: 11
+Episode 53 complete
+
+Episode 54 starting
+Trim loss: 23.86%
+Material usage: 70.41%
+Stocks used: 6
+Remaining products: 9
+Episode 54 complete
+
+Episode 55 starting
+Trim loss: 19.02%
+Material usage: 73.38%
+Stocks used: 7
+Remaining products: 12
+Episode 55 complete
+
+Episode 56 starting
+Trim loss: 19.84%
+Material usage: 70.55%
+Stocks used: 7
+Remaining products: 10
+Episode 56 complete
+
+Episode 57 starting
+Trim loss: 19.48%
+Material usage: 72.36%
+Stocks used: 4
+Remaining products: 10
+Episode 57 complete
+
+Episode 58 starting
+Trim loss: 13.87%
+Material usage: 72.74%
+Stocks used: 6
+Remaining products: 11
+Episode 58 complete
+
+Episode 59 starting
+Trim loss: 13.99%
+Material usage: 74.84%
+Stocks used: 7
+Remaining products: 6
+Episode 59 complete
+
+Episode 60 starting
+Trim loss: 20.17%
+Material usage: 72.12%
+Stocks used: 6
+Remaining products: 6
+Episode 60 complete
+
+Episode 61 starting
+Trim loss: 17.59%
+Material usage: 71.75%
+Stocks used: 6
+Remaining products: 8
+Episode 61 complete
+
+Episode 62 starting
+Trim loss: 17.10%
+Material usage: 73.81%
+Stocks used: 9
+Remaining products: 7
+Episode 62 complete
+
+Episode 63 starting
+Trim loss: 16.34%
+Material usage: 73.64%
+Stocks used: 7
+Remaining products: 7
+Episode 63 complete
+
+Episode 64 starting
+Trim loss: 19.16%
+Material usage: 76.67%
+Stocks used: 7
+Remaining products: 8
+Episode 64 complete
+
+Episode 65 starting
+Trim loss: 17.94%
+Material usage: 77.14%
+Stocks used: 7
+Remaining products: 7
+Episode 65 complete
+
+Episode 66 starting
+Trim loss: 14.46%
+Material usage: 77.32%
+Stocks used: 5
+Remaining products: 8
+Episode 66 complete
+
+Episode 67 starting
+Trim loss: 16.17%
+Material usage: 75.84%
+Stocks used: 8
+Remaining products: 10
+Episode 67 complete
+
+Episode 68 starting
+Trim loss: 18.94%
+Material usage: 72.06%
+Stocks used: 7
+Remaining products: 7
+Episode 68 complete
+
+Episode 69 starting
+Trim loss: 17.89%
+Material usage: 71.62%
+Stocks used: 6
+Remaining products: 6
+Episode 69 complete
+
+Episode 70 starting
+Trim loss: 18.40%
+Material usage: 77.26%
+Stocks used: 6
+Remaining products: 6
+Episode 70 complete
+
+Episode 71 starting
+Trim loss: 11.04%
+Material usage: 76.74%
+Stocks used: 5
+Remaining products: 9
+Episode 71 complete
+
+Episode 72 starting
+Trim loss: 13.12%
+Material usage: 80.70%
+Stocks used: 8
+Remaining products: 4
+Episode 72 complete
+
+Episode 73 starting
+Trim loss: 18.92%
+Material usage: 79.19%
+Stocks used: 5
+Remaining products: 4
+Episode 73 complete
+
+Episode 74 starting
+Trim loss: 15.00%
+Material usage: 79.77%
+Stocks used: 5
+Remaining products: 4
+Episode 74 complete
+
+Episode 75 starting
+Trim loss: 10.20%
+Material usage: 79.58%
+Stocks used: 6
+Remaining products: 10
+Episode 75 complete
+
+Episode 76 starting
+Trim loss: 11.62%
+Material usage: 80.64%
+Stocks used: 6
+Remaining products: 6
+Episode 76 complete
+
+Episode 77 starting
+Trim loss: 14.89%
+Material usage: 78.18%
+Stocks used: 7
+Remaining products: 6
+Episode 77 complete
+
+Episode 78 starting
+Trim loss: 18.67%
+Material usage: 83.24%
+Stocks used: 6
+Remaining products: 7
+Episode 78 complete
+
+Episode 79 starting
+Trim loss: 7.05%
+Material usage: 81.30%
+Stocks used: 4
+Remaining products: 5
+Episode 79 complete
+
+Episode 80 starting
+Trim loss: 17.28%
+Material usage: 80.53%
+Stocks used: 6
+Remaining products: 7
+Episode 80 complete
+
+Episode 81 starting
+Trim loss: 11.58%
+Material usage: 81.24%
+Stocks used: 7
+Remaining products: 7
+Episode 81 complete
+
+Episode 82 starting
+Trim loss: 16.29%
+Material usage: 84.37%
+Stocks used: 7
+Remaining products: 6
+Episode 82 complete
+
+Episode 83 starting
+Trim loss: 11.12%
+Material usage: 81.88%
+Stocks used: 5
+Remaining products: 3
+Episode 83 complete
+
+Episode 84 starting
+Trim loss: 16.13%
+Material usage: 83.16%
+Stocks used: 3
+Remaining products: 5
+Episode 84 complete
+
+Episode 85 starting
+Trim loss: 17.17%
+Material usage: 84.52%
+Stocks used: 5
+Remaining products: 2
+Episode 85 complete
+
+Episode 86 starting
+Trim loss: 8.63%
+Material usage: 84.06%
+Stocks used: 5
+Remaining products: 2
+Episode 86 complete
+
+Episode 87 starting
+Trim loss: 14.37%
+Material usage: 88.12%
+Stocks used: 7
+Remaining products: 5
+Episode 87 complete
+
+Episode 88 starting
+Trim loss: 13.44%
+Material usage: 85.41%
+Stocks used: 4
+Remaining products: 5
+Episode 88 complete
+
+Episode 89 starting
+Trim loss: 9.87%
+Material usage: 84.63%
+Stocks used: 5
+Remaining products: 2
+Episode 89 complete
+
+Episode 90 starting
+Trim loss: 14.06%
+Material usage: 84.57%
+Stocks used: 5
+Remaining products: 4
+Episode 90 complete
+
+Episode 91 starting
+Trim loss: 12.95%
+Material usage: 86.23%
+Stocks used: 5
+Remaining products: 4
+Episode 91 complete
+
+Episode 92 starting
+Trim loss: 9.00%
+Material usage: 85.13%
+Stocks used: 4
+Remaining products: 3
+Episode 92 complete
+
+Episode 93 starting
+Trim loss: 10.27%
+Material usage: 85.36%
+Stocks used: 3
+Remaining products: 3
+Episode 93 complete
+
+Episode 94 starting
+Trim loss: 12.42%
+Material usage: 84.92%
+Stocks used: 3
+Remaining products: 4
+Episode 94 complete
+
+Episode 95 starting
+Trim loss: 10.70%
+Material usage: 87.77%
+Stocks used: 4
+Remaining products: 1
+Episode 95 complete
+
+Episode 96 starting
+Trim loss: 5.90%
+Material usage: 88.73%
+Stocks used: 5
+Remaining products: 1
+Episode 96 complete
+
+Episode 97 starting
+Trim loss: 7.99%
+Material usage: 91.99%
+Stocks used: 4
+Remaining products: 2
+Episode 97 complete
+
+Episode 98 starting
+Trim loss: 10.60%
+Material usage: 90.17%
+Stocks used: 3
+Remaining products: 4
+Episode 98 complete
+
+Episode 99 starting
+Trim loss: 5.00%
+Material usage: 92.01%
+Stocks used: 6
+Remaining products: 0
+Episode 99 complete
+
